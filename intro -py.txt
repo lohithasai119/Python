@@ -1,0 +1,85 @@
+Procedural language 
+------------------
+----> This follows a step-by-step approach,  where code is structure into procedures such as 
+function or routines... example : C 
+
+Object oriented procedure 
+------------------------
+----> This is based on concepts of object and class...
+
+python 
+------
+1.dynamically typed ----> python know the type of data we are passing to the variable...
+
+2.interpreter ---> python execute code line-by-line , if any error it will stop the execution  in that and before will gives the output..
+example:
+num = 89
+print(type(num))
+num_2 = 67
+total_ = num + num_2 
+print(id(num))
+print(id(num_2))
+print(id(total_))
+
+3.high_level ---> 
+
+1991--> Guido Van Russum
+
+why use python 
+--------------
+---> easy syntax 
+---> cross-platform
+---> wide applications 
+---> Huge library support  
+
+Tokens
+-----
+1. Keywords ---> These  are reserved words... example: if, else, for ,while 
+2. Identifires ---> Names given to variables, functions, class  example: Variables 
+3. Literals ---> Nothing but data types  example: 89, "hello", 6.56
+4. Operators ---> + ,- , * , /
+5. Punctuators ---> {}, [], () 
+
+
+Rules of variables 
+------------------
+A-Z , a-z , 
+example 
+num_1 = 7 
+num = 8
+Num_2 = 9
+
+
+special char , number, space 
+$num = 0
+su@m = 8 
+s o = 89 
+2num = 9
+
+
+comments 
+--------
+1.single line comment ---> #
+2.multi-line comment ----> '''  ''', """  """ , " " ...
+
+example : 
+num = 9 
+if num % 2 == 0: # checking a number is even or odd 
+    print("even")
+else:
+   print("odd") 
+
+
+Boolean
+-------
+1.True
+2.False 
+
+    
+ 
+
+
+
+
+
+
