@@ -1,0 +1,196 @@
+Datatypes 
+---------
+int ---> num = 8 
+float ---> num_2 = 7.89
+example : num_2 = 7.89
+          num = 6.89
+          print(num // 2)
+
+Strings 
+-------
+---> string is a sequence of character that are enclosed in --> ' ' , " ", """ """ ...
+---> string is immutable....  
+
+concatenation 
+-------------
+---> here, the (+) addition operator act as to concatenate more than 2 strings...
+example: so = "python"
+         any_ = "is a language"
+         print(so + any_)
+
+Indexing
+--------
+---> This is used to access the particular char in the string by pass index position value...
+---> Index start from 0...
+---> we have  negative indexing to count position from last to first....
+example: any_ = "python is a language"
+         print(any_[12])
+         print(any_[-2])    
+               
+
+Methods 
+------
+1.replace()
+2.join()
+3.split()
+4.count()
+
+
+1.Replace() ---> This method is used to change any substring in that particular string..
+Syntax : variable_ name . replace ("old string", "new string" , count)
+example:  so = "python is a language"
+          print(so. replace("python", "java"))
+          print(so. replace("a", "A" , 2))
+          print(so)
+
+2.Join() ----> This method used to add new substring after each character in the string...
+Syntax : "string". join (variable_ name)
+example : so = "python is a language"
+          print("-".join(so))
+          print("$".join(so))
+
+
+3.Split() ---> This method can divide the string into different index into list , based on the string pass by us ... 
+syntax : variable_ name .split('substring')
+example: so = "python is a language"
+         print(so. split(" "))
+         print(so. split("is"))
+
+4.count ---> used to count the substring in the particular string and also specify the index position
+syntax: variable_ name .count("substring" , start index , ending index)
+example: so = "python is a language"
+         print(so. count("a"))
+         print(so. count("a", 0, 10))
+
+
+string built-in functions
+-------------------------
+
+1.len()
+2.max()
+3.min()
+
+1. len () ---> this will find the length of the string, which is number char present in the string...
+exampe : so = "python is a language"
+        print(len(so))
+
+2. max() ---> will get the max char in the string...
+example: so = "python is a language"
+         print(max(so))
+
+3.min() ---> will get the min char in the string... 
+example : so = "python is a language"
+          print(min(so))
+
+ 
+**program
+
+time_ = "16:56"
+parts_ = time_. split(":")
+print("this_ time", time_, "is convert into this", int(parts_[0]) - 12 , ":" , parts_[1], "pm")
+              
+
+List datatype
+-------------
+---> list is a collection of different datatypes that are enclosed in [] separated by , ...
+---> list mutable 
+example : all_ type = [1,'python',[1,2]]
+          print(all _type)
+
+List methods 
+------------
+1.append()
+2.extend()
+3.pop()
+4.remove()
+5.insert()
+
+1.append() ---> This is used to add new item into list, but it will add in the last index position ...
+example : any_ = [2,2,3,4]
+          print(any_)
+          any_ .append(5)
+          print(any_)
+          any_ .append(10)
+          print(any_)
+          any_ .append('python')
+          print(any_)
+   
+mutable                                                                Immutable
+-------                                                                ---------
+ The datatype can be modified                                          can't be modified 
+example:                                                               example: so = "python is a language"
+          any_ = [2,2,3,4]                                                      print(so. replace("python", "java")
+          print(any_)                                                                        
+          any_ .append(5)                                                                        
+          print(any_)                                                                                    
+          any_ .append(10)                                                                                    
+          print(any_)                                                                                                   
+                                                      
+
+
+2. extend() ---> This is also add a item in the last index position, but it will give each value in the each index position...
+----> it will take only itterable...  
+example: any_ = [1,2,3,4]
+         any_ .extend('python')
+         print(any_ )
+         print(len(any_))
+
+
+3. pop() ---> used to delete the item from the list, but it will dele on index position...
+syntax: variable_ name. pop(index position)
+example: any_ = [1,2,3,4,8,9,7]
+         any_ .pop(5)
+         print(any_) 
+
+
+4. remove() ---> used to delete the item from the list, but it will dele direct value from list...
+syntax: variable_ name. remove(value)
+example : any_ = [1,2,3,4,8,90,73]
+         any_ .remove(90)
+         print(any_) 
+
+
+
+*sorted - sort 
+any_ = [78,45,34,1]
+print(sorted(any_))
+any_ .sort() 
+print(any_)
+
+
+Tuple
+-----
+---> tuple is a collection of different datatypes that are enclosed in () separated by , ....
+---> it is immutable 
+example : how = (1,2,3,4,'python',[4,5],(90,78)) 
+          print(how(type))
+          print(how(4))
+          print(len(how))
+          print(how. count('python')
+          print(how. index('python')
+          how = (1,2,3,489,5,3)
+          print(max(how))
+          
+
+
+Task :
+count()
+insert()
+index()
+
+
+[56,[1,2],['python, 'java',['python is a language',153,90],[78,6],'I know c']]
+
+know
+153
+
+
+
+
+
+
+
+
+
+
+
