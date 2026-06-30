@@ -1,0 +1,79 @@
+Operators 
+---------
+1.Arithematic operator --> +,-,*,/,%,**(exponential),// ...
+example: a=20
+         b=5
+         print(a + b)
+         print(a - b)
+         print(a * b)
+         print(a / b)
+         print(a % b)
+
+
+2.Assignment operator ----> =,+= (increment),-= (decrement),*=,%= ...
+example: a=20
+         a += 4  # a = a + 4
+         a *= 4
+         print(a) 
+
+
+(imp)3.Comparision operator ---> ==,!=, <=,>=,<,> ...
+example: a=20
+         b=7
+         print(a == b)
+         print(a != b)
+         print(a <= b)
+         print(a >= b)
+
+
+4.Logical operator ---> and ,or , not 
+i)and ---> returns true if both conditions are true...
+example: a=20
+         b=7
+         c=89
+         print(a >= b and b >= c) 
+
+ii)or ---> returns true if any one is correct..
+example: a=20
+         b=7
+         c=89
+         print(a >= b or b >= c) 
+iii)not ---> reverse the output...
+example: a=20
+         b=7
+         c=89
+         print(not(a >= b and b >= c))
+
+
+
+5.Identity operator
+i)is ---> same object or not
+example: a=20
+         b=20
+         print( a == b)
+         print( a is b)
+ii)is not ---> not the same object
+example: a=20
+         b=20
+         print( a == b)
+         print( a is b)
+         print(a is not b)
+
+
+6.Membership operator ---> in, not in ...(whether it is inside)  
+example: a = [1,2,3,4,5]
+         print(2 in a)
+         print(20 in a)
+
+
+7.Bitwise operator ---> &, << , >> , ^ , | ...(using binary numbers it works)
+example: print(5 & 3)
+         print(5 | 3)
+         print(5 << 3)
+         print(5 >> 3)
+         
+
+
+
+
+
