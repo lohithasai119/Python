@@ -36,3 +36,10 @@ Learned how to convert data between different Python data types.
 Practiced conversions between int, float, string, list, tuple, and dictionary.
 Explored Python's built-in conversion functions like int(), float(), str(), list(), and tuple().
 Strengthened my understanding of handling and transforming data in Python.
+
+## 📅 Day 6 – User Input & Input Formatting
+
+Learned how to take user input in Python using the `input()` function.
+Practiced accepting different data types such as integers, floats, strings, lists, and tuples.
+Explored `eval()`, f-strings, and `%` formatting for creating dynamic and user-friendly output.
+Strengthened my understanding of user interaction and input handling in Python programs.
