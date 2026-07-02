@@ -162,47 +162,11 @@ an error incase it is false...
 ex:
 age = int(input("enter your age :"))
 assert age >= 18,  "you must have 18 years"
-
-
-
-
-**Task
-
-#vowel
-letter = input("Enter your letter: ")
-vowels  = ["A","E","I","O","U","a","e","i","o","u"]
-if letter in vowels :
-    print(f"{letter} is vowel")
-else:
-    print(f"{letter} is consonant")
-
-
-# max number among 3 numbers
-num_1 = int(input("enter your num1: "))
-num_2 = int(input("enter your num2: "))
-num_3 = int(input("enter your num3: "))
-if (num_1 > num_2 and num_1 > num_3):
-    print(f"{num_1} is max num")
-elif(num_2 > num_1 and num_2 > num_3):
-    print(f"{num_2} is max num")
-elif(num_3 > num_1 and num_3 > num_2):
-    print(f"{num_2} is max num")
-elif(num_3 > num_1 and num_3 > num_2):
-    print(f"{num_1} is max num")
-else:
-    print("It is not max number")
-
-02-06-26
-#using only for loop generate only even number upto 100
-#while loop 2 examples 
-# if conditions 2 examples
-
 '''
 
-age = int(input("enter your age :"))
-assert age >= 18,  "you must have 18 years"
 
-       
+
+
 
 
 
