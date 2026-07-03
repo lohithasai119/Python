@@ -50,3 +50,10 @@ Learned Python decision-making using `if`, `if-else`, `nested if`, and `elif` st
 Explored `for` and `while` loops along with Control statements `break`, `continue`, `pass`, `range()`, and the `assert` keyword.
 Practiced solving real-world problems such as checking vowels, finding the largest number, and generating even numbers.
 Strengthened my logical thinking and programming skills through hands-on coding exercises.
+
+## 📅 Day 8 – Problem Solving & Pattern Programs
+
+Practiced Python problem-solving by implementing Prime Number and Armstrong Number programs.
+Learned nested loops through various pattern-printing exercises, including triangles and pyramids.
+Improved my understanding of loops, conditions, counters, and logical thinking.
+Enhanced my coding skills by solving real-world programming challenges.
