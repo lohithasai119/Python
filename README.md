@@ -57,3 +57,10 @@ Practiced Python problem-solving by implementing Prime Number and Armstrong Numb
 Learned nested loops through various pattern-printing exercises, including triangles and pyramids.
 Improved my understanding of loops, conditions, counters, and logical thinking.
 Enhanced my coding skills by solving real-world programming challenges.
+
+## 📅 Day 9 – Python Logic Building Programs
+
+Practiced Python by solving logic-building programs such as Palindrome, Fibonacci Series, Calculator, Multiplication Tables, and Perfect Number.
+Strengthened my understanding of loops, conditional statements, user input, and arithmetic operations.
+Improved my problem-solving skills by implementing real-world programming logic.
+Gained confidence in writing efficient and structured Python programs.
