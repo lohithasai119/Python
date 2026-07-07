@@ -64,3 +64,10 @@ Practiced Python by solving logic-building programs such as Palindrome, Fibonacc
 Strengthened my understanding of loops, conditional statements, user input, and arithmetic operations.
 Improved my problem-solving skills by implementing real-world programming logic.
 Gained confidence in writing efficient and structured Python programs.
+
+## 📅 Day 10 – Functions in Python
+
+Learned how to create reusable code using Python functions and explored built-in and user-defined functions.
+Practiced different types of arguments, variable scope, the `return` statement, and recursive functions.
+Understood the concepts of global and local variables, along with passing arguments to functions.
+Strengthened my programming skills by writing modular and efficient Python code.
