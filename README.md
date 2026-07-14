@@ -107,3 +107,9 @@ Explored the `smtplib`, `ssl`, and `email.message` modules to create and send se
 Practiced configuring an SMTP server, authenticating users, and composing emails with subject and content.
 Strengthened my understanding of Python's email automation capabilities and real-world applications.
 
+## 📅 Day 16 – Python Voice Assistant
+
+Built a simple Voice Assistant using Python that listens to voice commands and responds with speech.
+Learned to use the `pyttsx3`, `speech_recognition`, `wikipedia`, `webbrowser`, and `datetime` modules.
+Implemented features such as greeting the user, telling the current time, opening websites, searching Wikipedia, and handling voice commands.
+Strengthened my understanding of Python automation, speech processing, and real-world application development.
