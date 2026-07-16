@@ -117,3 +117,7 @@ Strengthened my understanding of Python automation, speech processing, and real-
 ## 📅 Day 17 – Object-Oriented Programming (OOPs)
 
 On Day 16 of my Python learning journey, I explored the fundamentals of **Object-Oriented Programming (OOPs)** and learned how it helps organize code using classes and objects. I studied the concepts of **Classes, Objects, Attributes, and Methods**, and understood how they work together to build modular and reusable programs. I also learned the advantages of OOPs, including code reusability, easy maintenance, better security, and improved code organization. This session strengthened my understanding of writing structured and efficient Python applications.
+
+## 📅 Day 18 – Advanced OOP Concepts
+
+On Day 18 of my Python learning journey, I explored advanced Object-Oriented Programming (OOP) concepts, including the **`self` keyword**, **constructors (`__init__`)**, **access specifiers**, and **encapsulation**. I learned how objects are initialized using constructors, how the `self` keyword refers to the current object, and how public, protected, and private members control access to data. This session strengthened my understanding of writing secure, modular, and well-structured Python programs using OOP principles.
