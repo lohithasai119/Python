@@ -125,3 +125,7 @@ On Day 18 of my Python learning journey, I explored advanced Object-Oriented Pro
 ## 📅 Day 19 – Inheritance in Python
 
 On Day 19 of my Python learning journey, I explored **Inheritance**, one of the core concepts of Object-Oriented Programming (OOP). I learned how child classes inherit properties and methods from parent classes, making code more reusable and organized. I also studied the different types of inheritance, including **Single, Multiple, Multilevel, Hierarchical, and Hybrid Inheritance**, along with the **`super()` function** for accessing parent class methods and constructors. This session strengthened my understanding of code reusability and building structured object-oriented applications.
+
+## 📅 Day 20 – Polymorphism and Data Abstraction
+
+On Day 7 of my Python learning journey, I explored **Polymorphism** and **Data Abstraction**, two important Object-Oriented Programming (OOP) concepts. I learned about **Method Overloading, Method Overriding, and Operator Overloading**, and understood how the same method or operator can perform different tasks depending on the object or parameters. I also studied **Data Abstraction** using abstract classes and abstract methods with the `abc` module. This session strengthened my understanding of writing flexible, reusable, and well-structured Python programs.
