@@ -129,3 +129,7 @@ On Day 19 of my Python learning journey, I explored **Inheritance**, one of the 
 ## 📅 Day 20 – Polymorphism and Data Abstraction
 
 On Day 7 of my Python learning journey, I explored **Polymorphism** and **Data Abstraction**, two important Object-Oriented Programming (OOP) concepts. I learned about **Method Overloading, Method Overriding, and Operator Overloading**, and understood how the same method or operator can perform different tasks depending on the object or parameters. I also studied **Data Abstraction** using abstract classes and abstract methods with the `abc` module. This session strengthened my understanding of writing flexible, reusable, and well-structured Python programs.
+
+## 📅 Day 21 – Error Handling and Exception Handling
+
+On Day 21 of my Python learning journey, I explored **Error Handling and Exception Handling** in Python. I learned about common errors such as **SyntaxError, IndentationError, and ValueError**, and understood how to handle runtime errors using **try, except, else, and finally** blocks. I also practiced handling specific exceptions like **ValueError** and **ZeroDivisionError**. This session strengthened my understanding of writing robust and user-friendly Python programs by preventing unexpected crashes and managing errors effectively.
