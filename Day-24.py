@@ -193,14 +193,4 @@ data = pd.DataFrame(df)
 print(data)
 
 '''
-import pandas as pd
 
-df = {
-    "Product" : ['Laptop','Charger','Mobile'],
-    "Brand": ['Mac','Realme','Iphone'],
-    'price':[5700,1500,2500],
-    "stock":[5,15,9],
-    "Sales":['Amazon','Offline','Flipcart']
-    }
-data = pd.DataFrame(df)
-print(data)
