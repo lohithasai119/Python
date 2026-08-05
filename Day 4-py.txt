@@ -1,4 +1,4 @@
-Dictionaries
+Dictionaries 
 ------------
 ---> dict is a key : value pair separated by :, and keys are unique
 ---> in the place of keys we have use immutable datatypes...
