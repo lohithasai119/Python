@@ -1,5 +1,5 @@
 Datatypes 
----------
+--------- 
 int ---> num = 8 
 float ---> num_2 = 7.89
 example : num_2 = 7.89
