@@ -1,5 +1,5 @@
 Procedural language 
-------------------
+------------------ 
 ----> This follows a step-by-step approach,  where code is structure into procedures such as 
 function or routines... example : C 
 
