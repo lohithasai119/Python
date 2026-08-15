@@ -162,3 +162,7 @@ On Day 27 of my Python learning journey, I worked on an ATM System using Python,
 ## 📅 Day 28 – Python OOP: University Management System
 
 On Day 28 of my Python learning journey, I worked on a University Management System using Object-Oriented Programming (OOP) concepts. I learned how to create classes such as Person, Student, Faculty, Library, Attendance, Fee, Examination, and Result, and implemented their respective methods and attributes. I also practiced inheritance, method overriding, encapsulation, class methods, static methods, constructors, and objects. This project strengthened my understanding of OOP concepts and helped me apply them to a real-world university management application.
+
+## 📅 Day 30 – Python Web Scraping Project
+
+On Day 30 of my Python learning journey, I worked on a Web Scraping Project using Requests, BeautifulSoup, Pandas, Matplotlib, and Regular Expressions. I learned how to fetch web pages, extract product and book details such as names, prices, and images, clean extracted data, and store it in Pandas DataFrames and CSV files. I also practiced visualizing book prices using a bar chart. This project strengthened my understanding of web scraping, data extraction, data handling, DataFrames, CSV files, and data visualization while applying Python to a real-world data collection task.
