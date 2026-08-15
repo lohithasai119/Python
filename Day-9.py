@@ -1,4 +1,4 @@
-'''
+''' 
 #palindrom
 so = input("Enter your word :")
 empty = ""
