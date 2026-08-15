@@ -1,4 +1,4 @@
-'''
+''' 
 Inheritance
 -----------
 Inheritance is an oop concept where one class (child/derived)
