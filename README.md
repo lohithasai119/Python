@@ -150,3 +150,7 @@ On Day 24 of my Python learning journey, I explored **Matplotlib**, a powerful P
 ## 📅 Day 25 – Date & Time, NumPy, and Pandas in Python
 
 On Day 23 of my Python learning journey, I explored **Date & Time**, **Calendar**, **NumPy**, and **Pandas**, which are essential libraries for data analysis and scientific computing in Python. I learned how to work with dates and time formatting, use calendar functions, create and manipulate NumPy arrays, perform array operations, reshape arrays, and build Pandas Series and DataFrames. This session strengthened my understanding of Python libraries used for data analysis and prepared me for working with real-world datasets.
+
+📅 Day 26 – Python OOP Project: ATM System
+
+Today, I worked on an ATM System using Python OOP concepts. The project helped me understand how to create a class, initialize objects using __init__(), and use methods to perform different banking operations. I implemented PIN-based login with limited attempts, deposit, withdrawal, balance checking, transaction history, and menu-driven operations. This project strengthened my understanding of classes, objects, methods, instance variables, conditional statements, loops, and lists while applying Python OOP concepts to a real-world application.
