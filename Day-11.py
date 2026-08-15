@@ -1,4 +1,4 @@
-'''
+''' 
 Lambda function
 ---------------
 ---> This is also called as annonymous function...
