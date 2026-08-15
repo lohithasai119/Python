@@ -158,3 +158,7 @@ On Day 26 of my Python learning journey, I worked on an ATM System using Object-
 ## 📅 Day 27 – Python ATM System
 
 On Day 27 of my Python learning journey, I worked on an ATM System using Python, focusing on implementing real-world banking operations through a menu-driven program. I implemented features such as PIN validation, withdrawal, deposit, PIN change, balance checking, transaction history, and ATM card blocking after multiple incorrect PIN attempts. This project strengthened my understanding of dictionaries, loops, conditional statements, user input, lists, and transaction handling, while helping me apply Python concepts to build a practical application.
+
+## 📅 Day 28 – Python OOP: University Management System
+
+On Day 28 of my Python learning journey, I worked on a University Management System using Object-Oriented Programming (OOP) concepts. I learned how to create classes such as Person, Student, Faculty, Library, Attendance, Fee, Examination, and Result, and implemented their respective methods and attributes. I also practiced inheritance, method overriding, encapsulation, class methods, static methods, constructors, and objects. This project strengthened my understanding of OOP concepts and helped me apply them to a real-world university management application.
