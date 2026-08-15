@@ -3,7 +3,7 @@ Type conversions
 ----------------
 ---> This process of converting one data type to another..
 i)Int-->string;float
-ex:
+ex: 
 num =89
 num_2 = float(num)
 print(num_2)
