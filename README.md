@@ -142,7 +142,7 @@ On Day 22 of my Python learning journey, I explored **File Handling** in Python 
 
 On Day 23 of my Python learning journey, I explored **Regular Expressions (RegEx)** and learned how they are used for pattern searching and text processing in Python using the **`re` module**. I practiced important RegEx functions such as **`findall()`**, **`search()`**, **`split()`**, **`sub()`**, and **`fullmatch()`**, and understood the usage of metacharacters like **`[]`**, **`^`**, **`$`**, **`.`**, **`*`**, **`+`**, and **`{}`**. This session strengthened my understanding of searching, validating, and manipulating text efficiently using pattern matching techniques.
 
-## 📅 Day 24 – Data Visualization with Matplotlib
+## 📅 Day 25 – Data Visualization with Matplotlib
 
 On Day 24 of my Python learning journey, I explored **Matplotlib**, a powerful Python library used for data visualization. I learned how to create different types of charts, including **Line Plots, Bar Charts, Pie Charts, Scatter Plots, and Histograms**, along with adding titles, labels, colors, legends, and customizing graphs. This session strengthened my understanding of presenting data visually and interpreting information effectively through graphs and charts.
 
