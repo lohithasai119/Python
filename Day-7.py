@@ -1,6 +1,6 @@
 '''
 Statements 
-----------
+---------- 
 1.conditional statements
 ------------------------
 i)if ---> used to check a condition is true or not
