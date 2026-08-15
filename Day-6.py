@@ -1,7 +1,7 @@
 '''
 Input formatting from user
 --------------------------
-1.input()
+1.input() 
 --------
 --> the input() function is used to take input from the user...
 
