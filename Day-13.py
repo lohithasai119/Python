@@ -1,5 +1,5 @@
 '''
-Generators
+Generators 
 ----------
 --->This generator is special function that returns the itertor.
 instead of returning all the values at once...
