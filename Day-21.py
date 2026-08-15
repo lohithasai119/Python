@@ -1,5 +1,5 @@
 '''
-Error Handling
+Error Handling 
 --------------
 1.Syntax error
 --------------
