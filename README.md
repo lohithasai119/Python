@@ -154,3 +154,7 @@ On Day 23 of my Python learning journey, I explored **Date & Time**, **Calendar*
 ## 📅 Day 26 – Python OOP: ATM System
 
 On Day 26 of my Python learning journey, I worked on an ATM System using Object-Oriented Programming (OOP) concepts. I learned how to create classes and objects, use the __init__() constructor, define methods, and manage instance variables. I implemented features such as PIN-based login, deposit, withdrawal, balance checking, and transaction history. This project strengthened my understanding of Python OOP concepts and helped me apply them to a real-world banking application.
+
+## 📅 Day 27 – Python ATM System
+
+On Day 27 of my Python learning journey, I worked on an ATM System using Python, focusing on implementing real-world banking operations through a menu-driven program. I implemented features such as PIN validation, withdrawal, deposit, PIN change, balance checking, transaction history, and ATM card blocking after multiple incorrect PIN attempts. This project strengthened my understanding of dictionaries, loops, conditional statements, user input, lists, and transaction handling, while helping me apply Python concepts to build a practical application.
